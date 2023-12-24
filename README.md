@@ -1,10 +1,15 @@
 ## 👋 Introduction
 Hi, I'm **Jung**, a geotechnical engineer at bp. I am working for offshore oil & gas industry, and my research interests include geotechnical engineering, geology and geophysics, offshore engineering, risk assessment, and reliability analysis using Bayesian Method.
 
+
 ## 📫 Contact Me
+| [LinkedIn](https://www.linkedin.com/in/jungrak-son/) | [Email](mailto:jon.jungrak.son@gmail.com) |
 
-| [LinkedIn](https://www.linkedin.com/in/jungrak-son/) | [Email](jon.jungrak.son@gmail.com) |
 
+## 🌱 GitHub is for
+- Managing offshore engineering skills to teach in the future.
+- Developing Python scripts for automating tasks.
+- Catching up with the fast-moving world of Data Science even though I am a classic engineer.
 
 <!--
 **jrson11/jrson11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
