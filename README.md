@@ -3,7 +3,7 @@ Hi, I'm **Jung**, a geotechnical engineer at bp. I am working for offshore oil &
 
 ## 📫 Contact Me
 
-| [LinkedIn].[1] | ✉️[Email](jon.jungrak.son@gmail.com) |
+| [LinkedIn](https://www.linkedin.com/in/jungrak-son/) | [Email](jon.jungrak.son@gmail.com) |
 
 
 <!--
