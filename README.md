@@ -1,5 +1,5 @@
 ## 👋 Introduction
-Hi, I'm **Jung**, a geotechnical engineer at bp. I work in the offshore oil & gas industry, and my research interests include geotechnical engineering, geology, geophysics, offshore engineering, risk assessment, and reliability analysis using Bayesian Method.
+Hi, I'm **Jung**, a geotechnical engineer in Houston, TX. I work in the offshore oil & gas industry, and my research interests include geotechnical engineering, geology, geophysics, offshore engineering, risk assessment, and reliability analysis using Bayesian Method.
 
 
 ## 📫 Contact Me
